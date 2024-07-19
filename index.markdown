@@ -25,8 +25,14 @@ In this workshop, you'll dive into the fascinating world of computer science thr
 
 
 **Why join?**
+
+
 •⁠  **Expert Guidance:** Learn from the best minds in the field.
+
+
 •⁠  ⁠**Interactive Sessions:** Engage in hands-on activities and discussions.
+
+
 •⁠  ⁠**Exclusive Community:** Gain access to the **CODER's High Association**, a dynamic platform where young minds from across India can collaborate, innovate, and grow together.
 
 
