@@ -5,7 +5,7 @@
 layout: home
 ---  
   
-# <span style="color: #007acc;">Exciting news for JEE Advanced cleared Students! </span>
+# <span style="color: #007acc;">Dive into the world of computation and thinking </span>
 
 <!--![Image](images/s2.png)-->
 <!--[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)-->  
@@ -14,21 +14,27 @@ layout: home
 <img  src="images/s2.png" width="40" height="40"><span style="color: #4caf50; font-size: 22px;"> Joy of Computing Workshop</span>
 <!--# Joy of Computing Workshop (Completed)-->
 
-Attend our exclusive, **free** workshop at IIT Ropar for JEE Advanced cleared students, and explore the endless possibilities of the digital world through engaging, hands-on experiences.
+Following the tremendous success of our June offline workshop, where we hosted JEE Advanced All India Rank holders from 300 to 20,000, we're thrilled to bring the **Joy of Computing** online and accessible to everyone across India! 🌐✨
 
-For further details: [Visit our website](/swagatam/joc)
+In this workshop, you'll dive into the fascinating world of computer science through fun and engaging programming sessions. Our distinguished professors and talented students from **IIT Ropar** will guide you through this enriching journey. 
 
-<a href="https://www.google.com/maps/place/S.+Ramanujan+Block+-+IIT+Ropar/@30.9688583,76.4750874,18.28z/data=!4m6!3m5!1s0x39055541f9d03931:0xd82463b14ef85ff0!8m2!3d30.9689972!4d76.4756899!16s%2Fg%2F11g22z9t9g?entry=ttu">
-  <img src="images/point.jpg" alt="Location" width="25">
-</a><span style="color: #007acc; font-size: 18px;"> Location - CSE Department, IIT Ropar</span>
+---
+
+**Why join?**
+•⁠  *⁠*Expert Guidance:** Learn from the best minds in the field.
+•⁠  ⁠**Interactive Sessions:** Engage in hands-on activities and discussions.
+•⁠  ⁠**Exclusive Community:** Gain access to the **CODER's High Association**, a dynamic platform where young minds from across India can collaborate, innovate, and grow together.
+
+---
 
 
----  
+For further details: [Visit our website](/joc)
+
 <h5>  </h5>
-# <span style="color: #007acc;">Information Corner</span>
-*Offering essential information to prepare you for a successful start at IIT Ropar, ensuring you're fully informed and ready.*
+<!--! # <span style="color: #007acc;">Information Corner</span>
+*Welcoming you on board to the world of computing, *
 
-<h3>  </h3>
+<!--! <h3>  </h3>
 <a href="https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf">
   <img src="images/s5.png" alt="Handbook Icon" width="40">
 </a><span style="color: #4caf50; font-size: 22px;">Handbook of Information</span>  
@@ -56,7 +62,7 @@ For academic section queries please use:
 
 ---
 <img style="float: right;" src="images/about-img.jpg" width="400" height="300">
-<h5>  </h5>
+<h5>  </h5> -->
 # <span style="color: #007acc;">Connect With Us</span>
 
 <h2><span style="color: #4caf50;">Our Social Media Handles:</span></h2>
