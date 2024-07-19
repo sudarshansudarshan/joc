@@ -8,6 +8,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       font-family: 'Montserrat', sans-serif;
       font-size: 16px;
@@ -24,41 +28,13 @@
       padding: 10px;
     }
 
-    .navigation {
-      margin-bottom: 20px;
-    }
-
-    .navigation ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: flex-start;
-    }
-
-    .navigation ul li {
-      margin-right: 20px;
-      margin-bottom: 10px;
-    }
-
-    .navigation ul li a {
-      text-decoration: none;
-      color: #333;
-      font-weight: bold;
-    }
-
-    .navigation li a:hover {
-      color: #ff6600;
-    }
-
     .hero-section {
       width: 100%;
       min-height: 100vh;
       background-image: url('images/joc image.jpg');
       background-size: cover;
       background-repeat: no-repeat;
-      background-position: right top;
+      background-position: center;
       display: flex;
       align-items: center;
       justify-content: flex-start;
@@ -72,17 +48,17 @@
       max-width: 600px;
     }
 
-    .hero-text h2 {
-      font-size: 23px;
+    h2 {
+      color: black;
+      font-size: 28px;
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
       margin-bottom: 20px;
-      color: black;
     }
 
-    .hero-text p {
-      font-size: 14px;
-      margin-bottom: 20px;
+    p {
       color: black;
+      font-size: 16px;
+      margin-bottom: 20px;
     }
 
     .btn {
@@ -100,54 +76,33 @@
       background-color: #008CBA;
     }
 
-    .post-list-heading {
-      font-size: 1.5em;
-      margin-bottom: 20px;
-    }
-
-    .post-list li {
-      margin-bottom: 20px;
-    }
-
-    .post-meta {
-      font-size: 0.9em;
-      color: #666;
-    }
-
-    .post-link {
-      color: #333;
-      text-decoration: none;
-      transition: color 0.3s;
-    }
-
-    .post-link:hover {
-      color: #ff6600;
-    }
-
-    .svg-icon {
-      width: 16px;
-      height: 16px;
-    }
-
     @media (max-width: 768px) {
       .hero-section {
-        background-position: center;
+        background-position: right center;
       }
 
       .content {
         max-width: 100%;
       }
 
-      .hero-text h2 {
-        font-size: 20px;
+      h2 {
+        font-size: 24px;
       }
 
-      .hero-text p {
-        font-size: 12px;
+      p {
+        font-size: 14px;
       }
     }
 
     @media (max-width: 480px) {
+      h2 {
+        font-size: 20px;
+      }
+
+      p {
+        font-size: 12px;
+      }
+
       .btn {
         padding: 8px 16px;
         font-size: 14px;
@@ -157,54 +112,20 @@
 </head>
 <body>
   <div class="home">
-    <nav class="navigation">
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
-
     <div class="hero-section">
       <div class="content">
-        <div class="hero-text">
-          <h2><b>Joy Of Computing Online Workshop</b></h2>
-          <p>
-            Embark on an exhilarating journey into the captivating realm of Computing with our vibrant and engaging sessions spanning two days. Our esteemed professors and brilliant students from IIT Ropar will be your guides, illuminating your path through this enriching and unforgettable experience.
-          </p>
-          <p><b>Dates: 22nd and 23rd July</b></p>
-          <a href="https://forms.gle/HP18PAvap6ifJ8EG8" class="btn">Register Now</a>
-          <p>
-            Join Our WhatsApp Group here:
-            <a href="https://chat.whatsapp.com/J4Na1mTOXqY3xCPWGv64sz" class="btn">Join Now</a>
-          </p>
-        </div>
+        <h2><b>Joy Of Computing Online Workshop</b></h2>
+        <p>
+          Embark on an exhilarating journey into the captivating realm of Computing with our vibrant and engaging sessions spanning two days. Our esteemed professors and brilliant students from IIT Ropar will be your guides, illuminating your path through this enriching and unforgettable experience.
+        </p>
+        <p><b>Dates: 22nd and 23rd July</b></p>
+        <a href="https://forms.gle/HP18PAvap6ifJ8EG8" class="btn">Register Now</a>
+        <p>
+          Join Our WhatsApp Group here:
+          <a href="https://chat.whatsapp.com/J4Na1mTOXqY3xCPWGv64sz" class="btn">Join Now</a>
+        </p>
       </div>
     </div>
-
-    <div class="content">
-      {{ content }}
-    </div>
-
-    {% if site.posts.size > 0 %}
-      <div class="recent-posts">	
-        <h1 class="post-list-heading">Recent Posts</h1>
-        <ul class="post-list">
-          {% for post in site.posts limit: 1 %}
-            <li>
-              {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-              <span class="post-meta">{{ post.date | date: date_format }}</span>
-              <a class="post-link" href="{{ post.url | relative_url }}">
-                <h6>{{ post.title | escape }}</h6>
-              </a>
-              {% if site.show_excerpts %}
-                {{ post.excerpt }}
-              {% endif %}
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-    {% endif %}
   </div>
 </body>
 </html>
