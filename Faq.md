@@ -12,8 +12,16 @@ Electronic devices are not required for the workshop, as we aim for a complete d
 <!--**2. Is there a fee for accommodations and food, or are they included in the workshop?**
 
 There is no fee for accommodation or food, as they are included in the workshop. This initiative is completely free of charge, with all expenses covered. A refundable safety deposit of Rs. 1000 is required, which will be returned within two days after the completion of the workshop.-->
+**1. When will the workshop be held?**
 
-**1. What is the limit on the number of students who can attend this workshop?**
+The workshop will be held on 22nd and 23rd July,2024 , the Monday and the Tuesday.
+
+
+**2. Would be get any certificate?**
+
+Yes, we'll be providing you the certificates of completion at the end.
+
+**3. What is the limit on the number of students who can attend this workshop?**
 
 While we strive to welcome as many students as possible, please note that we have a limited number of seats available. We encourage early registration to secure your spot in the workshop.
 
@@ -33,15 +41,15 @@ Unfortunately, the workshop for now is in online mode only. -->
 
 No, we regret to inform you that the travel charges are not reimbursed.We recognize this may pose an inconvenience and are exploring options to address this for upcoming workshops. In the meantime, kindly plan your travel arrangements accordingly.-->
 
-**2. Are there any pre-requisites for the workshop?**
+**4. Are there any pre-requisites for the workshop?**
 
 We look for enthusiastic students, willing to participate actively. There are no pre-requisites for workshop.
 
-**3. Who all can join the workshop?**
+**5. Who all can join the workshop?**
 
 The workshop is open to all computing enthusiasts. Age no bar.
 
-**4. How do we pay the fee for the workshop?**
+**6. How do we pay the fee for the workshop?**
 
 
 Please find the payment QR alog with the regsitration form. If you face any trouble feel free to contact us.
