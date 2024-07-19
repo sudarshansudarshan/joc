@@ -16,12 +16,16 @@ There is no fee for accommodation or food, as they are included in the workshop.
 
 The workshop will be held on 22nd and 23rd July,2024 , the Monday and the Tuesday.
 
+**2. What would be future incentives?**
 
-**2. Would we get any certificate?**
+Top participants in the workshop will get an exclusive chance to be part of premium **Coder's High Association** and we'll give you special access to the future incentives by our organisation.
 
-Yes, we'll be providing you the certificates of completion at the end.
 
-**3. What is the limit on the number of students who can attend this workshop?**
+**3. Would we get any certificate?**
+
+Yes, we'll be providing you the certificates of completion at the end of the workshop.
+
+**4. What is the limit on the number of students who can attend this workshop?**
 
 While we strive to welcome as many students as possible, please note that we have a limited number of seats available. We encourage early registration to secure your spot in the workshop.
 
@@ -41,15 +45,15 @@ Unfortunately, the workshop for now is in online mode only. -->
 
 No, we regret to inform you that the travel charges are not reimbursed.We recognize this may pose an inconvenience and are exploring options to address this for upcoming workshops. In the meantime, kindly plan your travel arrangements accordingly.-->
 
-**4. Are there any pre-requisites for the workshop?**
+**5. Are there any pre-requisites for the workshop?**
 
 We look for enthusiastic students, willing to participate actively. There are no pre-requisites for workshop.
 
-**5. Who all can join the workshop?**
+**6. Who all can join the workshop?**
 
 The workshop is open to all computing enthusiasts. Age no bar.
 
-**6. How do we pay the fee for the workshop?**
+**7. How do we pay the fee for the workshop?**
 
 
 Please find the payment QR alog with the regsitration form. If you face any trouble feel free to contact us.
