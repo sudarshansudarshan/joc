@@ -44,7 +44,7 @@ In this workshop, you'll dive into the fascinating world of computer science thr
 ---
 
 
-For further details: [Visit our website](/joc)
+<!--For further details: [Visit our website](/joc)-->
 
 <h5>  </h5>
 <!--! # <span style="color: #007acc;">Information Corner</span>
