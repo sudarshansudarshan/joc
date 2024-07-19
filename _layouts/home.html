@@ -8,60 +8,43 @@ layout: default
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Swagatam</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
   <style>
     body {
-      font-family: 'Roboto Medium', sans-serif; /* Use Roboto font or any other preferred font */
+      font-family: 'Montserrat', sans-serif; /* Use Montserrat font for consistency */
       font-size: 16px;
       line-height: 1.6;
-      color: #000000; /* Default text color */
+      color: #000; /* Default text color */
       margin: 0;
       padding: 0;
       width: 100%;
-      /*background-image: url('images/bgg1.png');
-      background-size: contain; /* Set the width and height of the background image */
-      /*background-repeat: no-repeat;
-      background-position: center top;
-       /* Center the background image */
-      <!-- background-color: #ffdbac;-->
     }
-  /*.home {
-      max-width: 100%;
-      margin: 0 auto;
-      padding: 10px;
-    }*/
     .home {
       max-width: 100%;
       margin: 0 auto;
       padding: 10px;
     }
-
     .navigation {
       margin-bottom: 20px;
     }
-
     .navigation ul {
       list-style: none;
       padding: 0;
       margin: 0;
     }
-
     .navigation ul li {
       display: inline;
       margin-right: 20px;
     }
-
     .navigation ul li a {
       text-decoration: none;
       color: #333;
       font-weight: bold;
     }
-
     .navigation li a:hover {
       color: #ff6600; /* Change color on hover */
     }
-
     .hero-section {
       width: 100%;
       height: 100vh; /* Adjust height as needed */
@@ -71,33 +54,24 @@ layout: default
       background-position: center top;
       display: flex;
       align-items: center; /* Center content vertically */
-      justify-content: left; /* Center content horizontally */
+      justify-content: center; /* Center content horizontally */
       color: white; /* Set default text color */
       text-align: center; /* Center text */
-      /* margin-top: 100px; */
     }
-
-    .hero-image {
-      max-width: 100%;
-      height: auto;
-    }
-
     .hero-text {
       margin-top: 20px;
     }
-
     .hero-text h2 {
       font-size: 2.5em; /* Larger font size for heading */
       margin-bottom: 10px;
       color: #FFFFFF;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
     }
-
     .hero-text p {
       font-size: 1.2em;
       margin-bottom: 20px;
       color: #FFFFFF;
     }
-
     .btn {
       display: inline-block;
       padding: 10px 20px;
@@ -107,108 +81,53 @@ layout: default
       border-radius: 5px;
       transition: background-color 0.3s;
     }
-
     .btn:hover {
       background-color: #008CBA;
     }
-
-    .post-list-heading {
-      font-size: 1.5em;
-      margin-bottom: 20px;
-    }
-
-    .post-list li {
-      margin-bottom: 20px;
-    }
-
-    .post-meta {
-      font-size: 0.9em;
-      color: #666;
-    }
-
-    .post-link {
-      color: #333;
-      text-decoration: none;
-      transition: color 0.3s;
-    }
-
-    .post-link:hover {
-      color: #ff6600; /* Change color on hover */
-    }
-
     .content {
-            text-align: left;
+      text-align: left;
+      padding: 20px;
     }
-
-    .svg-icon {
-      width: 16px;
-      height: 16px;
+    @media (max-width: 768px) {
+      .hero-section {
+        flex-direction: column;
+        height: auto; /* Adjust height for smaller screens */
+        padding: 20px;
+        background-size: cover;
+      }
+      .hero-text h2 {
+        font-size: 1.8em; /* Smaller font size for smaller screens */
+      }
+      .hero-text p {
+        font-size: 1em; /* Adjust font size */
+      }
+      .content {
+        padding: 10px;
+      }
     }
-
-
   </style>
 </head>
 <body>
 <div class="home">
-  <!--{%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}  </h1>
-  {%- endif -%}-->
-
-
   <div class="hero-section" style="width: 100%; background-color: #ffcc99; background-image: url('images/joc image.jpg'); background-size: contain; background-repeat: no-repeat; background-position: right top;">
     <div class="content" style="padding-left: 40px;">
-<!--       <h2 style="color: black;"><b> Joy Of Computing Online Workshop</b></h2> -->
       <h2 style="color: black; font-family: 'Montserrat', sans-serif; font-size: 23px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);"><b>Joy Of Computing Online Workshop</b></h2>
-
       <p style="color: black; font-family: 'Montserrat', sans-serif; font-size: 14px">
         Embark on an exhilarating journey into the captivating realm <br>of Computing with our vibrant and engaging sessions spanning two days. <br>Our esteemed professors and brilliant students from IIT Ropar will <br>be your guides, illuminating your path through this enriching and <br>unforgettable experience.
       </p> 
-
       <p style="color: black;"><b>Dates: 22nd and 23rd July</b></p>
-
       <a href="https://forms.gle/HP18PAvap6ifJ8EG8" class="btn">Register Now</a>
       <br>
-
       <p style="color: black;">
         Join Our WhatsApp Group here:
         <a href="https://chat.whatsapp.com/J4Na1mTOXqY3xCPWGv64sz" class="btn">Join Now</a>
       </p>
-      
     </div>
   </div>
   <br>
-  <div class="content" style="padding-left: 170px; padding-right: 170px ;">
-  {{ content }}
+  <div class="content">
+    {{ content }}
   </div>
-
- <!-- {%- if site.posts.size > 0 -%}
-    <div class="recent-posts">	
-      <h1 class="post-list-heading">Recent Posts</h1>
-      <ul class="post-list">
-        {%- for post in site.posts limit: 1 -%}
-        <li>-->
-        <!--  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-        
-            <a class="post-link" href="/aicamp/dashboard/">
-              <h6>
-              Matrix Mystics
-              </h6>
-            </a> -->
-          
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
-        </li>
-        {%- endfor -%}
-      </ul>
-      <!-- <a href="" class="btn">View All Posts</a> -->
-    </div>
-  {%- endif -%}
-
-  
 </div>
 </body>
 </html>
-
-
