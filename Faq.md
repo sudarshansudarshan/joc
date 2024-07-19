@@ -17,7 +17,7 @@ There is no fee for accommodation or food, as they are included in the workshop.
 The workshop will be held on 22nd and 23rd July,2024 , the Monday and the Tuesday.
 
 
-**2. Would be get any certificate?**
+**2. Would we get any certificate?**
 
 Yes, we'll be providing you the certificates of completion at the end.
 
