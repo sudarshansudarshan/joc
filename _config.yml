@@ -29,7 +29,7 @@
 
 header_pages:
   - Faq.md
-  - content.md
+  #- content.md
   
 
 # header:
