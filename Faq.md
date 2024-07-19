@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /joc/faq/
+permalink: /faq/
 order: 2
 ---
 
