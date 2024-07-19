@@ -145,7 +145,20 @@ layout: default
       height: 16px;
     }
 
-
+    <style>
+    @media (min-width: 769px) {
+      .parent {
+        display: flex;
+        flex-direction: row; /* Horizontal layout for larger screens */
+      }
+    }
+    @media (max-width: 768px) {
+      .parent {
+        display: flex;
+        flex-direction: column; /* Vertical layout for smaller screens */
+      }
+    }
+  </style>
   </style>
 </head>
 <body>
@@ -155,8 +168,8 @@ layout: default
   {%- endif -%}-->
 
 
-  <div class="hero-section" style="width: 100%; background-color: red; background-image: url('images/joc image.jpg'); background-size: contain; background-repeat: no-repeat; background-position: right top;">
-    <div class="content" style="padding-left: 40px;">
+  <div class="hero-section parent" style="width: 100%; background-color: red; background-size: contain; background-repeat: no-repeat; background-position: right top;">
+    <div class="content child" style="padding-left: 40px;">
 <!--       <h2 style="color: black;"><b> Joy Of Computing Online Workshop</b></h2> -->
       <h2 style="color: black; font-family: 'Montserrat', sans-serif; font-size: 23px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);"><b>Joy Of Computing Online Workshop</b></h2>
 
@@ -175,7 +188,8 @@ layout: default
       </p>
       
     </div>
-  </div>
+    <div class="" style="width: 100%;  background-image: url('images/joc image.jpg');"></div>
+    </div>
   <br>
   <div class="content" style="padding-left: 0.1*vw; padding-right: 0.1*vw ;">
   {{ content }}
