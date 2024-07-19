@@ -26,7 +26,7 @@ In this workshop, you'll dive into the fascinating world of computer science thr
 
 
 
-**Why join?**
+<span style="color: #4caf50; font-size: 22px;">Why join?</span>
 
 
 •⁠  **Expert Guidance:** Learn from the best minds in the field.
