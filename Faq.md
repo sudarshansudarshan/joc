@@ -25,23 +25,23 @@ Parents are welcome to visit with us and observe the learning atmosphere of IIT 
 
 During the workshop, all students will be provided with shared accommodation. This setup offers them a genuine experience of staying in the hostels at IITs and fosters strong bonds with their roommates. -->
 
-**2. Will there be an offline mode also for the workshop?**
+<!--**2. Will there be an offline mode also for the workshop?**
 
-Unfortunately, the workshop for now is in online mode only. 
+Unfortunately, the workshop for now is in online mode only. -->
 
 <!--**7. Is the travel fee reimbursed?**
 
 No, we regret to inform you that the travel charges are not reimbursed.We recognize this may pose an inconvenience and are exploring options to address this for upcoming workshops. In the meantime, kindly plan your travel arrangements accordingly.-->
 
-**3. Are there any pre-requisites for the workshop?**
+**2. Are there any pre-requisites for the workshop?**
 
 We look for enthusiastic students, willing to participate actively. There are no pre-requisites for workshop.
 
-**4. Who all can join the workshop?**
+**3. Who all can join the workshop?**
 
 The workshop is open to all computing enthusiasts. Age no bar.
 
-**5. How do we pay the fee for the workshop?**
+**4. How do we pay the fee for the workshop?**
 
 
 Please find the payment QR alog with the regsitration form. If you face any trouble feel free to contact us.
