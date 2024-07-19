@@ -6,15 +6,13 @@ layout: home
 ---  
 
 
-# <span style="color: #007acc;">Dive into the world of computation and thinking </span>
-
 <!--![Image](images/s2.png)-->
 <!--[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)-->  
 <!--<img style="float: right;" src="images/imgg.png" width="300" height="200">-->
 
 <!--<img  src="images/s2.png" width="40" height="40"> -->
 
-<span style="color: #4caf50; font-size: 22px;"> Joy of Computing Workshop</span>
+<span style="color: #4caf50; font-size: 22px;"> Dive into the world of computation and thinking </span>
 <!--# Joy of Computing Workshop (Completed)-->
 
 Following the tremendous success of our June offline workshop, where we hosted JEE Advanced All India Rank holders from 300 to 20,000, we're thrilled to bring the **Joy of Computing** online and accessible to everyone across India! 🌐✨
