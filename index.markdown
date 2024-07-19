@@ -21,11 +21,8 @@ Following the tremendous success of our June offline workshop, where we hosted J
 
 In this workshop, you'll dive into the fascinating world of computer science through fun and engaging programming sessions. Our distinguished professors and talented students from **IIT Ropar** will guide you through this enriching journey. 
 
----
 
-
-
-
+<br><br>
 <span style="color: #4caf50; font-size: 22px;">Why join?</span>
 
 
@@ -88,7 +85,7 @@ For academic section queries please use:
 </h3>
 
 <!-- <img style="float: right;" src="images/about-img.jpg" width="300" height="200"> -->
----
+
 <h5>  </h5>
 <!--! # <span style="color: #007acc;">Frequently Asked Questions</span>
 
