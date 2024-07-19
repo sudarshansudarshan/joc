@@ -1,6 +1,3 @@
----
-layout: default
----
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,94 +5,60 @@ layout: default
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Swagatam</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
-      font-family: 'Roboto Medium', sans-serif; /* Use Roboto font or any other preferred font */
+      font-family: 'Montserrat', sans-serif;
       font-size: 16px;
       line-height: 1.6;
-      color: #000000; /* Default text color */
+      color: #000000;
       margin: 0;
       padding: 0;
       width: 100%;
-      /*background-image: url('images/bgg1.png');
-      background-size: contain; /* Set the width and height of the background image */
-      /*background-repeat: no-repeat;
-      background-position: center top;
-       /* Center the background image */
-      <!-- background-color: #ffdbac;-->
     }
-  /*.home {
-      max-width: 100%;
-      margin: 0 auto;
-      padding: 10px;
-    }*/
+
     .home {
       max-width: 100%;
       margin: 0 auto;
       padding: 10px;
     }
 
-    .navigation {
-      margin-bottom: 20px;
-    }
-
-    .navigation ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-
-    .navigation ul li {
-      display: inline;
-      margin-right: 20px;
-    }
-
-    .navigation ul li a {
-      text-decoration: none;
-      color: #333;
-      font-weight: bold;
-    }
-
-    .navigation li a:hover {
-      color: #ff6600; /* Change color on hover */
-    }
-
     .hero-section {
       width: 100%;
-      height: 100vh; /* Adjust height as needed */
-      background-image: url('images/bgg1.png');
-      background-size: contain;
+      min-height: 100vh;
+      background-image: url('images/joc image.jpg');
+      background-size: cover;
       background-repeat: no-repeat;
-      background-position: center top;
+      background-position: center;
       display: flex;
-      align-items: center; /* Center content vertically */
-      justify-content: left; /* Center content horizontally */
-      color: white; /* Set default text color */
-      text-align: center; /* Center text */
-      /* margin-top: 100px; */
+      align-items: center;
+      justify-content: flex-start;
+      padding: 20px;
     }
 
-    .hero-image {
-      max-width: 100%;
-      height: auto;
+    .content {
+      background-color: rgba(255, 255, 255, 0.8);
+      padding: 20px;
+      border-radius: 10px;
+      max-width: 600px;
     }
 
-    .hero-text {
-      margin-top: 20px;
-    }
-
-    .hero-text h2 {
-      font-size: 2.5em; /* Larger font size for heading */
-      margin-bottom: 10px;
-      color: #FFFFFF;
-    }
-
-    .hero-text p {
-      font-size: 1.2em;
+    h2 {
+      color: black;
+      font-size: 28px;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
       margin-bottom: 20px;
-      color: #FFFFFF;
+    }
+
+    p {
+      color: black;
+      font-size: 16px;
+      margin-bottom: 20px;
     }
 
     .btn {
@@ -106,121 +69,63 @@ layout: default
       text-decoration: none;
       border-radius: 5px;
       transition: background-color 0.3s;
+      margin-bottom: 10px;
     }
 
     .btn:hover {
       background-color: #008CBA;
     }
 
-    .post-list-heading {
-      font-size: 1.5em;
-      margin-bottom: 20px;
-    }
-
-    .post-list li {
-      margin-bottom: 20px;
-    }
-
-    .post-meta {
-      font-size: 0.9em;
-      color: #666;
-    }
-
-    .post-link {
-      color: #333;
-      text-decoration: none;
-      transition: color 0.3s;
-    }
-
-    .post-link:hover {
-      color: #ff6600; /* Change color on hover */
-    }
-
-    .content {
-            text-align: left;
-    }
-
-    .svg-icon {
-      width: 16px;
-      height: 16px;
-    }
-
-    <style>
-    @media (min-width: 769px) {
-      .parent {
-        display: flex;
-        flex-direction: row; /* Horizontal layout for larger screens */
-      }
-    }
     @media (max-width: 768px) {
-      .parent {
-        display: flex;
-        flex-direction: column; /* Vertical layout for smaller screens */
+      .hero-section {
+        background-position: right center;
+      }
+
+      .content {
+        max-width: 100%;
+      }
+
+      h2 {
+        font-size: 24px;
+      }
+
+      p {
+        font-size: 14px;
       }
     }
-  </style>
+
+    @media (max-width: 480px) {
+      h2 {
+        font-size: 20px;
+      }
+
+      p {
+        font-size: 12px;
+      }
+
+      .btn {
+        padding: 8px 16px;
+        font-size: 14px;
+      }
+    }
   </style>
 </head>
 <body>
-<div class="home" style="">
-  <!--{%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}  </h1>
-  {%- endif -%}-->
-
-
-  <div class="hero-section parent" style="width: 100%; height: 100vh; display: flex; width: 100%; background-size: contain; background-repeat: no-repeat; background-position: right top;">
-    <div class="content child" style="padding-left: 40px;flex: 1; background-color: #ffcc99; box-sizing: border-box;">
-<!--       <h2 style="color: black;"><b> Joy Of Computing Online Workshop</b></h2> -->
-      <h2 style="color: black; font-family: 'Montserrat', sans-serif; font-size: 23px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);"><b>Joy Of Computing Online Workshop</b></h2>
-
-      <p style="color: black; font-family: 'Montserrat', sans-serif; font-size: 14px">
-        Embark on an exhilarating journey into the captivating realm <br>of Computing with our vibrant and engaging sessions spanning two days. <br>Our esteemed professors and brilliant students from IIT Ropar will <br>be your guides, illuminating your path through this enriching and <br>unforgettable experience.
-      </p> 
-
-      <p style="color: black;"><b>Dates: 22nd and 23rd July</b></p>
-
-      <a href="https://forms.gle/HP18PAvap6ifJ8EG8" class="btn">Register Now</a>
-      <br>
-
-      <p style="color: black;">
-        Join Our WhatsApp Group here:
-        <a href="https://chat.whatsapp.com/J4Na1mTOXqY3xCPWGv64sz" class="btn">Join Now</a>
-      </p>
-      
+  <div class="home">
+    <div class="hero-section">
+      <div class="content">
+        <h2><b>Joy Of Computing Online Workshop</b></h2>
+        <p>
+          Embark on an exhilarating journey into the captivating realm of Computing with our vibrant and engaging sessions spanning two days. Our esteemed professors and brilliant students from IIT Ropar will be your guides, illuminating your path through this enriching and unforgettable experience.
+        </p>
+        <p><b>Dates: 22nd and 23rd July</b></p>
+        <a href="https://forms.gle/HP18PAvap6ifJ8EG8" class="btn">Register Now</a>
+        <p>
+          Join Our WhatsApp Group here:
+          <a href="https://chat.whatsapp.com/J4Na1mTOXqY3xCPWGv64sz" class="btn">Join Now</a>
+        </p>
+      </div>
     </div>
-    <div class="" style="flex: 1; background-color: #99ccff; padding: 10px; box-sizing: border-box; background-image: url('images/joc image.jpg');"></div>
-    </div>
-  <br>
-  <div class="content" style="padding-left: 0.1*vw; padding-right: 0.1*vw ;">
-  {{ content }}
   </div>
-
- <!-- {%- if site.posts.size > 0 -%}
-    <div class="recent-posts">	
-      <h1 class="post-list-heading">Recent Posts</h1>
-      <ul class="post-list">
-        {%- for post in site.posts limit: 1 -%}
-        <li>-->
-        <!--  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-        
-            <a class="post-link" href="/aicamp/dashboard/">
-              <h6>
-              Matrix Mystics
-              </h6>
-            </a> -->
-          
-          {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-          {%- endif -%}
-        </li>
-        {%- endfor -%}
-      </ul>
-      <!-- <a href="" class="btn">View All Posts</a> -->
-    </div>
-  {%- endif -%}
-
-  
-</div>
 </body>
 </html>
