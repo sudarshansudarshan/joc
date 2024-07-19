@@ -5,12 +5,6 @@
 layout: home
 ---  
 
-   <div style="overflow: hidden; background-color: #333;">
-        <a href="#home" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none;">Home</a>
-        <a href="#about" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none;">About</a>
-        <a href="#services" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none;">Content</a>
-        <a href="#contact" style="float: left; display: block; color: #f2f2f2; text-align: center; padding: 14px 16px; text-decoration: none;">Contact</a>
-    </div>
 
 # <span style="color: #007acc;">Dive into the world of computation and thinking </span>
 
