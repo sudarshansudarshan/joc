@@ -88,9 +88,9 @@ For academic section queries please use:
 <!-- <img style="float: right;" src="images/about-img.jpg" width="300" height="200"> -->
 ---
 <h5>  </h5>
-# <span style="color: #007acc;">Frequently Asked Questions</span>
+<!--! # <span style="color: #007acc;">Frequently Asked Questions</span>
 
-<details>
+<!--<details>
   <summary style="border:1px solid #ccc; padding: 10px; border-radius: 5px; display: inline-block; cursor: pointer;">
 <b> Q: What makes IIT Ropar unique compared to other IITs? </b>
   </summary>
@@ -260,7 +260,8 @@ The nearest railway stations are:<br>
 Take an autorickshaw to the  Main Campus, IIT Ropar.<br>
 
   
-  </details>
+  </details> -->
+
 
 
 
