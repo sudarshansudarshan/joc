@@ -10,7 +10,7 @@ layout: home
 
 <!--![Image](images/s2.png)-->
 <!--[![Image](images/s2.png)](https://www.iitrpr.ac.in/sites/default/files/Handbook-of-Information-AY-2024-25.pdf)-->  
-<img style="float: right;" src="images/imgg.png" width="300" height="200">
+<!--<img style="float: right;" src="images/imgg.png" width="300" height="200">-->
 
 <!--<img  src="images/s2.png" width="40" height="40"> -->
 
