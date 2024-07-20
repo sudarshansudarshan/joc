@@ -31,7 +31,7 @@ In this unique workshop, you’ll delve into the captivating world of computer s
 •⁠  ⁠**Interactive Sessions:** Participate in hands-on activities and dynamic discussions that will enhance your understanding and ignite your passion for programming.
 
 
-•⁠  ⁠**Exclusive Community:** Become a part of the **CODER’s High Association**, a vibrant platform where young innovators from across India can collaborate, share ideas, and grow together.
+•⁠  ⁠**Exclusive Community:** Become a part of the *CODER’s High Association*, a vibrant platform where young innovators from across India can collaborate, share ideas, and grow together.
 
 This workshop is not just a learning opportunity; it’s a gateway to a community of like-minded individuals eager to explore, innovate, and excel in the fascinating world of computing. Don't miss this chance to be part of something extraordinary. Join us and let’s code the future together!
 
