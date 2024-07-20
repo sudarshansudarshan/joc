@@ -161,13 +161,13 @@
 </head>
 <body>
   <div class="home">
-    <nav class="navigation">
+<!--     <nav class="navigation">
       <ul>
         <li><a href="#">Home</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
-    </nav>
+    </nav> -->
 
     <div class="hero-section">
       <div class="hero-content">
@@ -190,7 +190,33 @@
       {{ content }}
     </div>
 
-    {% if site.posts.size > 0 %}
+
+    <!-- {%- if site.posts.size > 0 -%}
+    <div class="recent-posts">	
+      <h1 class="post-list-heading">Recent Posts</h1>
+      <ul class="post-list">
+        {%- for post in site.posts limit: 1 -%}
+        <li>-->
+        <!--  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+        
+            <a class="post-link" href="/aicamp/dashboard/">
+              <h6>
+              Matrix Mystics
+              </h6>
+            </a> -->
+          
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+      <!-- <a href="" class="btn">View All Posts</a> -->
+    </div>
+  {%- endif -%}
+  
+<!--     {% if site.posts.size > 0 %}
       <div class="recent-posts">	
         <h1 class="post-list-heading">Recent Posts</h1>
         <ul class="post-list">
@@ -208,7 +234,7 @@
           {% endfor %}
         </ul>
       </div>
-    {% endif %}
+    {% endif %} -->
   </div>
 </body>
 </html>
