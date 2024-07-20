@@ -54,7 +54,7 @@ Membership in the Coders High Association allows you to connect with like-minded
 **9. How can I register for the workshop?**
 
 
-You can register on the Google form [here](http://bit.ly/JOC_Registration). Also, visit our [website](http://bit.ly/JOC_Website) for details and join our [WhatsApp group]([http://bit.ly/JOC_Registration](https://chat.whatsapp.com/J4Na1mTOXqY3xCPWGv64sz)) for more updates.
+You can register on the Google form [here](http://bit.ly/JOC_Registration). Also, visit our [website](http://bit.ly/JOC_Website) for details and join our [WhatsApp group]((https://chat.whatsapp.com/J4Na1mTOXqY3xCPWGv64sz)) for more updates.
 
 
 **10. Is prior programming knowledge required to participate?**
@@ -72,7 +72,7 @@ Certificates of participation may be provided. Please check the workshop details
 **12. How do I contact the organizers for more information?**
 
 
-Visit our [website](http://bit.ly/JOC_Website) for details and join our [WhatsApp group]([http://bit.ly/JOC_Registration](https://chat.whatsapp.com/J4Na1mTOXqY3xCPWGv64sz)) for updates.
+Visit our [website](http://bit.ly/JOC_Website) for details and join our [WhatsApp group]((https://chat.whatsapp.com/J4Na1mTOXqY3xCPWGv64sz)) for updates.
 
 
 **13. What was the offline workshop's success story?**
