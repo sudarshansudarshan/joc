@@ -25,13 +25,13 @@ In this unique workshop, you’ll delve into the captivating world of computer s
 <span style="color: #4caf50; font-size: 22px;">Why join?</span>
 
 
-•⁠  **Expert Guidance:** Learn from the foremost minds in the field of computer science, gaining insights and knowledge that will set you on a path to excellence.
+- **Expert Guidance:** Learn from the foremost minds in the field of computer science, gaining insights and knowledge that will set you on a path to excellence.
 
 
-•⁠  ⁠**Interactive Sessions:** Participate in hands-on activities and dynamic discussions that will enhance your understanding and ignite your passion for programming.
+- ⁠**Interactive Sessions:** Participate in hands-on activities and dynamic discussions that will enhance your understanding and ignite your passion for programming.
 
 
-•⁠  ⁠**Exclusive Community:** Become a part of the *CODER’s High Association*, a vibrant platform where young innovators from across India can collaborate, share ideas, and grow together.
+- ⁠**Exclusive Community:** Become a part of the *CODER’s High Association*, a vibrant platform where young innovators from across India can collaborate, share ideas, and grow together.
 
 This workshop is not just a learning opportunity; it’s a gateway to a community of like-minded individuals eager to explore, innovate, and excel in the fascinating world of computing. Don't miss this chance to be part of something extraordinary. Join us and let’s code the future together!
 
