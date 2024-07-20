@@ -56,7 +56,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a Description for the website
 
 baseurl: /joc # the subpath of your site, e.g. /blog
-url: https://sudarshansudarshan.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://Ashutosh-iitrpr.github.io # the base hostname & protocol for your site, e.g. http://example.com
 #instagram_username: soni_nishit_
 #twitter_username: jekyllrb
 #github_username:  jekyll
