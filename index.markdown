@@ -36,7 +36,7 @@ In this unique workshop, you’ll delve into the captivating world of Computing 
 This workshop is not just a learning opportunity; it’s a gateway to a community of like-minded individuals eager to explore, innovate, and excel in the fascinating world of computing. Don't miss this chance to be part of something extraordinary. Join us and let’s code the future together!
 
 
-Check out the Detailed Schedlue of the Workshop [Here](/schedule/)
+*Check out the Detailed Schedlue of the Workshop [Here](/schedule/)*
 
 
 
