@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Frequently Asked Questions
+title: FAQs
 permalink: /faq/
 order: 2
 ---
