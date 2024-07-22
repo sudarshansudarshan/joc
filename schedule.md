@@ -9,7 +9,7 @@ permalink: /schedule/
 | Time              | Activity                                                                 |
 |:-----------------:|--------------------------------------------------------------------------|
 | 9:00 AM           | Orientation and Welcoming                                                |
-| 9:30 AM - 10:45 AM| Birthday Paradox, Moon paper tear, Bhamasura example                      |
+| 9:30 AM - 10:45 AM| Birthday Paradox, Moon paper tear, Bhasmasura example                      |
 | 10:45 AM - 11:00 AM| Break                                                                   |
 | 11:00 AM - 12:30 PM| Security and Rajnikanth, Saving the last chess move, GCD and Fibonacci  |
 | 12:30 PM - 2:00 PM| Break                                                                    |
