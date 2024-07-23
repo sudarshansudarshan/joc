@@ -1,0 +1,25 @@
+
+## 2/3rds average problem:
+
+This is a game where a bunch of people are expected to propose a number
+between 0 to 100 and the winner is someone whose number is closest to 2/3rds of the average of all the numbers proposed. We need to create a functional google
+sheet for this. Atharva's point is to keep the google form open in its editable version. We can display the output on the google sheet. We need to create this 
+google form. The game is played for some time and we teach students on the concept of Nash equilibrium. The inutitive idea should be enough without any rigorous proof. 
+
+## Birthday Paradox:
+
+1. We ask everyone to enter their day and month over a google form. It is good to capture this information by giving htem a dropdown menu. Otherwise, they tend to input in a not so readable format. After this, we will display all the information in a random order in a google sheet and then ask them if they are able to see any collisions. This is just to make it fun and keep them engaged. There can be a hidden sheet, which has the entries in the ascending oder. 
+
+2. We then discuss the fact that the collisions are common. We write a code to illustrate this in google sheet itself. 
+
+3. We will now propose the mobile phone storing problem. Where 100 mobile phones are stored in a 10x10 grid. We will ask them to calculate the probability of a collision. Rather, show this by writing a code in python. 
+
+4. We then check this result for 1000, 10000, 100000, 1000000 mobile phones and so on. 
+
+5. Motivate the idea of storage where storage, retrival and lookup can all be done in almost constant time.
+
+6. We will conclude with the idea of hashing and introduce some of its variants (if the audience are up to it).
+
+## 
+
+
