@@ -44,7 +44,14 @@ The story of e (the derivation of the value and compound interest)
 ## Solve the first few Python Oceanverse Questions
 This is useful for beginners to get started with python. 
 
+## Pagerank
 
+## Compression and Entropy
+
+## Binary Search
+Laptop thief, Curse on your bank account, Imposition with ctrl cv, dictionary example, finding sqrt of 11. 
+
+## Gradient Descent using the subjects example. 
 
 
 
