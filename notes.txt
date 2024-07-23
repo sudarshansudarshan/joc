@@ -20,6 +20,32 @@ google form. The game is played for some time and we teach students on the conce
 
 6. We will conclude with the idea of hashing and introduce some of its variants (if the audience are up to it).
 
-## 
+## Greedy Pig
+
+Atharva brought this to our notice. This seems to be an amazing exercise for students to play and figure out what is happening. We can create a google form for this? We will play this a couple of times to understand what script will make it interesting. 
+
+## Online Hiring
+The story of e (the derivation of the value and compound interest)
+
+## Dart Problem
+
+## The German Tank Problem
+
+## Vigenere Cryptanalysis
+
+## Sensex Prediction
+
+## Baysian Learning 
+
+## Shakuni Problem and Prime Factoring
+
+## Halting Problem
+
+## Solve the first few Python Oceanverse Questions
+This is useful for beginners to get started with python. 
+
+
+
+
 
 
