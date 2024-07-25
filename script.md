@@ -1,6 +1,5 @@
 ---
 title: "JOC"
-mathjax: true
 ---
 
 # Topics to be discussed
