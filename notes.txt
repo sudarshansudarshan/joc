@@ -22,14 +22,17 @@ google form. The game is played for some time and we teach students on the conce
 
 ## Greedy Pig
 
+[Greedy Pig](https://youtu.be/ULhRLGzoXQ0?si=9DRjVkTcMbc5W4u2)
 Atharva brought this to our notice. This seems to be an amazing exercise for students to play and figure out what is happening. We can create a google form for this? We will play this a couple of times to understand what script will make it interesting. 
 
 ## Online Hiring
 The story of e (the derivation of the value and compound interest)
 
 ## Dart Problem
+Same underlying concept as the Greedy Pig. Can be left as an exercise for the students.
 
 ## The German Tank Problem
+Same underlying concept as the Greedy Pig. Can be left as an exercise for the students.
 
 ## Vigenere Cryptanalysis
 
@@ -54,5 +57,27 @@ Laptop thief, Curse on your bank account, Imposition with ctrl cv, dictionary ex
 ## Gradient Descent using the subjects example. 
 
 
+
+
+
+
+
+
+
+
+
+
+# Interesting Problems not overlapping with JOC.
+
+## Catalan Numbers
+[Catalan Numbers](https://youtu.be/fczN0BCx0xs?si=jWsXONH_6n7wEkiQ)
+- Problems:
+1. Paths that don't cross the diagonal.
+2. Number of Dyck words.
+3. Number of ways to triangulate a polygon.
+4. Number of binary search trees with n leaf nodes.
+5. Number of ways to parenthesize an expression.
+
+## Error Correcting Codes
 
 
