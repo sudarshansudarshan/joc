@@ -84,6 +84,10 @@ Laptop thief, Curse on your bank account, Imposition with ctrl cv, dictionary ex
 5. Number of ways to parenthesize an expression.
 
 ## Error Correcting Codes
-1. [Solomon Reed Codes](https://youtu.be/CcZf_7Fb4Us?si=3Rp4sFoTBTlJKE2a)
+1. [Hamming Codes](https://youtu.be/X8jsijhllIA?si=Dbft4LofSk-xSixD)
+2. [Solomon Reed Codes](https://youtu.be/CcZf_7Fb4Us?si=3Rp4sFoTBTlJKE2a) (Using Lagrange Interpolation)
+
+## Anomaly Detection
+
 
 
