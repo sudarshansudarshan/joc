@@ -1,3 +1,8 @@
+---
+title: "JOC"
+mathjax: true
+---
+
 # Topics to be discussed
 
 ## 2/3rds average problem:
@@ -68,7 +73,7 @@ Laptop thief, Curse on your bank account, Imposition with ctrl cv, dictionary ex
 
 
 
-# Interesting Problems not overlapping with JOC.
+# Interesting Problems that don't overlap with JOC.
 
 ## Catalan Numbers
 [Catalan Numbers](https://youtu.be/fczN0BCx0xs?si=jWsXONH_6n7wEkiQ)
@@ -80,5 +85,6 @@ Laptop thief, Curse on your bank account, Imposition with ctrl cv, dictionary ex
 5. Number of ways to parenthesize an expression.
 
 ## Error Correcting Codes
+1. [Solomon Reed Codes](https://youtu.be/CcZf_7Fb4Us?si=3Rp4sFoTBTlJKE2a)
 
 
