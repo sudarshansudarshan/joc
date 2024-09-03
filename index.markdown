@@ -78,8 +78,6 @@ For academic section queries please use:
 <h2><span style="color: #4caf50;">Our Social Media Handles:</span></h2>
 {% include social.html %}
 <h3>
-<a href="https://linktr.ee/iitropar" class="btn">Join Our Linktree</a>
-</h3>
 
 <!-- <img style="float: right;" src="images/about-img.jpg" width="300" height="200"> -->
 
