@@ -17,7 +17,7 @@ layout: home
 <!--<span style="color: #4caf50; font-size: 22px;"> Dive into the world of computation and thinking </span>-->
 <!--# Joy of Computing Workshop (Completed)-->
 
-Following the tremendous success of our June offline workshop as well as July online workshop, where we proudly hosted JEE Advanced All India Rank holders from 300 to 20,000 and many others, we are beyond excited to announce that the Joy of Computing is now coming live again! 🌐✨ This means that every eager learner across India can join in and experience the magic of Computer Science from the comfort of their own home once again.
+Following the tremendous success of our June offline workshop as well as July online workshop, where we proudly hosted JEE Advanced All India Rank holders from 300 to 20,000 and many others, we are beyond excited to announce that the Joy of Computing is now coming live online again! 🌐✨ This means that every eager learner across India can join in and experience the magic of Computer Science from the comfort of their own home once again.
 
 In this unique workshop, you’ll delve into the captivating world of Computing through a series of fun, engaging, and highly interactive sessions. Our distinguished professors and exceptionally talented students from IIT Ropar will be your mentors, guiding you every step of the way on this enriching journey.
 
