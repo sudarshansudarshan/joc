@@ -16,7 +16,7 @@ permalink: /schedule/
 | 2:00 PM - 3:30 PM | Round table discussion and Peer interaction                              |
 | 3:30 PM - 4:45 PM | Page-rank Activity, Hashing illustration with pigeon holes, Tell-Tale Grand Mother’s Paradox |
 | 5:00 PM - 6:30 PM | Online Hiring, Cake cutting paradox, Shamir’s secret Sharing, average finding |
-| 6:30 PM - 7:00 PM | Interaction with Professor and Students of IIT Ropar                     |
+| 6:30 PM - 7:00 PM | Interaction with Professor and Members of Coder's High Association            |
 
 ## Day 2:
 
