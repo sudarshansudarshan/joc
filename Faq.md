@@ -8,7 +8,7 @@ order: 2
 **1. What are the dates for the online Joy of Computing Workshop?**
 
 
-The workshop will be held on the 22nd and 23rd of July.
+The workshop will be held on the 14th and 15th of September.
 
 **2. Who can participate in this workshop?**
 
@@ -24,7 +24,7 @@ The nominal fee for the workshop is INR 500.
 **4. Who will be conducting the sessions?**
 
 
-The sessions will be conducted by esteemed professors and talented students from IIT Ropar.
+The sessions will be conducted by esteemed professors and elite members of Coder's High Association.
 
 
 **5. What topics will be covered in the workshop?**
