@@ -29,4 +29,4 @@ permalink: /schedule/
 | 2:00 PM - 3:30 PM | Round table discussion and Peer interaction                              |
 | 3:30 PM - 4:45 PM | Door toggling, Towers of Hanoi, Catalan numbers                          |
 | 5:00 PM - 6:30 PM | Fun session and Motivation for future with Professor                     |
-| 6:30 PM - 7:00 PM | Interaction with Professor and Students of IIT Ropar                     |
+| 6:30 PM - 7:00 PM | Interaction with Professor and Members of Coder's High Association       |
