@@ -8,7 +8,7 @@ order: 2
 **1. What are the dates for the online Joy of Computing Workshop?**
 
 
-The workshop will be held on the 14th and 15th of September.
+The workshop will be held on 15th of September,2024.
 
 **2. Who can participate in this workshop?**
 
@@ -19,7 +19,7 @@ The workshop is open to participants across India, particularly those interested
 **3. What is the cost of the workshop?**
 
 
-The nominal fee for the workshop is INR 500.
+There is a nominal fee for the workshop. Please join the [WhatsApp group](https://chat.whatsapp.com/LUTSifFi44zAoHSzRv80QQ) for more information.
 
 **4. Who will be conducting the sessions?**
 
@@ -66,7 +66,7 @@ The workshop is designed to be accessible to all levels, so prior programming kn
 **11. Can I get a certificate for attending the workshop?**
 
 
-Certificates of participation may be provided. Please check the workshop details on the registration page for confirmation.
+Certificates of participation will be provided.
 
 
 **12. How do I contact the organizers for more information?**
