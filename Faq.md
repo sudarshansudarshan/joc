@@ -19,7 +19,7 @@ The workshop is open to participants across India, particularly those interested
 **3. What is the cost of the workshop?**
 
 
-There is a nominal fee for the workshop. Please join the [WhatsApp group](https://chat.whatsapp.com/LUTSifFi44zAoHSzRv80QQ) for more information.
+There is a nominal fee for the workshop. Please join the [WhatsApp group](https://chat.whatsapp.com/LUTSifFi44zAoHSzRv80QQ) or you can view in the registeration link on the Google form [here](http://bit.ly/JOC_Registration).
 
 **4. Who will be conducting the sessions?**
 
